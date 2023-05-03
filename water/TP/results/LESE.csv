@@ -1,0 +1,13 @@
+Epoch:9999, train: RMSE=0.028495305477270527, R2=tensor([0.9356297], grad_fn=<RsubBackward1>), MAE=tensor([0.0196486], grad_fn=<DivBackward0>)
+Epoch:9999, test: RMSE=0.028055856445127196, R2=tensor([0.9455720], grad_fn=<RsubBackward1>), MAE=tensor([0.0192087], grad_fn=<DivBackward0>)
+Epoch:9999, train: RMSE=0.027741988196593025, R2=tensor([0.9412087], grad_fn=<RsubBackward1>), MAE=tensor([0.0192038], grad_fn=<DivBackward0>)
+Epoch:9999, test: RMSE=0.03103930910526433, R2=tensor([0.9234332], grad_fn=<RsubBackward1>), MAE=tensor([0.0204529], grad_fn=<DivBackward0>)
+Epoch:9999, train: RMSE=0.030783136798304814, R2=tensor([0.9268841], grad_fn=<RsubBackward1>), MAE=tensor([0.0217052], grad_fn=<DivBackward0>)
+Epoch:9999, test: RMSE=0.030589506261113716, R2=tensor([0.9289116], grad_fn=<RsubBackward1>), MAE=tensor([0.0220490], grad_fn=<DivBackward0>)
+Epoch:9999, train: RMSE=0.031177280611331352, R2=tensor([0.9266732], grad_fn=<RsubBackward1>), MAE=tensor([0.0219564], grad_fn=<DivBackward0>)
+Epoch:9999, test: RMSE=0.03171832484279818, R2=tensor([0.9152948], grad_fn=<RsubBackward1>), MAE=tensor([0.0230425], grad_fn=<DivBackward0>)
+Epoch:9999, train: RMSE=0.030095975203543412, R2=tensor([0.9317787], grad_fn=<RsubBackward1>), MAE=tensor([0.0208403], grad_fn=<DivBackward0>)
+Epoch:9999, test: RMSE=0.029095361996315593, R2=tensor([0.9261906], grad_fn=<RsubBackward1>), MAE=tensor([0.0201136], grad_fn=<DivBackward0>)
+0.0300 0.0020
+0.9278 0.0177
+0.0209 0.0021
